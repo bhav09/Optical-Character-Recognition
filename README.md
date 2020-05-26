@@ -25,9 +25,8 @@ For Windows users:
 2.See where tesseract is being installed. For eg if the path is :C:\Users\USER\AppData\Local\Tesseract-OCR 
 
 3.Set the tesseract path in the script before calling image_to_string:
-    
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
-    
+  pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+  
 4. Refer the code for better understanding
 
 5. Keep the image that you want to be OCR-ed in a local in the lcoal directory or else provide the full path of the image.
