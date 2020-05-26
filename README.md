@@ -1,6 +1,12 @@
 # Optical-Character-Recognition
 This Repository is dedicated to OCR , its purpose , installation , how to use, application etc
 
+Would suggest you to use Pychram for this.
+
+Don't have Pycharm installed? Don't worry : https://www.jetbrains.com/pycharm/download/#section=windows
+
+<Download the community version>
+
 -->What is OCR, its purpose and its application : https://en.wikipedia.org/wiki/Optical_character_recognition
 
 -->Installation
