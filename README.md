@@ -30,3 +30,5 @@ For Windows users:
     
 4. Refer the code for better understanding
 
+5. Keep the image that you want to be OCR-ed in a local in the lcoal directory or else provide the full path of the image.
+
